@@ -1,31 +1,36 @@
-# Comparadores-factura-el-ctrica-espa-a
-Repositorio de Comparador de Tarifas de Luz en España (Excel). Actualizaciones periódicas.
-
 # Comparador de Tarifas Eléctricas - España ⚡
 
 Este repositorio contiene una herramienta en formato Excel para comparar tarifas eléctricas del mercado libre en España, personalizable por el usuario con los datos de su factura real.
 
-📌 El objetivo del proyecto es mantener actualizadas las tarifas de referencia a lo largo del tiempo, de modo que los usuarios puedan revisar su factura periódicamente.
-
-📅 **Actualización continua**:
-Las versiones se publican en la pestaña [Releases](https://github.com/tuusuario/comparador-tarifas-luz/releases), agrupadas por periodo (por ejemplo: Mayo 2025, Verano 2025, etc.).
+📌 **Actualización continua**:
+El archivo Excel se actualizará periódicamente en este mismo repositorio (pestaña `Code`).
 
 ✅ Funciones:
 - Comparativa personalizada de tarifas eléctricas.
 - Cálculo de impuestos y coste total mensual.
-- Actualización periódica de tarifas del mercado.
+- Actualización de tarifas según la época.
 
-🎁 Licencia: CC BY-NC 4.0 — uso personal y no comercial.
+🎁 Licencia: **CC BY-NC 4.0** — uso personal y no comercial.
 
-Autor: Íñigo Sánchez Nueno.
+**Autor**: Íñigo Sánchez Nueno.  
+**Contacto**: isanchezn2002@gmail.com
 
 ---
 
-**Cómo usar**:
-1. Descarga la última versión desde [Releases](https://github.com/tuusuario/comparador-tarifas-luz/releases).
-2. Abre el archivo en Excel.
-3. Introduce tus datos reales en "Tarifa actual".
-4. Revisa los resultados y compara.
+## 🔽 Cómo descargar
+
+1️⃣ Ve a la pestaña **Code** (arriba).  
+2️⃣ Busca el archivo `.xlsx` (por ejemplo, `Comparador_luz_Mayo2025.xlsx`).  
+3️⃣ Haz clic sobre él y luego clic en **Download** o en "Raw" → Guardar como.
+
+---
+
+## 🗓️ Notas
+
+El comparador se irá actualizando a lo largo del tiempo (por ejemplo: Mayo 2025, Verano 2025, etc.).  
+Puedes volver aquí para descargar la versión más reciente.
+
+Si encuentras algún error o sugerencia, no dudes en abrir un **Issue** o contactar al autor.
 
 ---
 
